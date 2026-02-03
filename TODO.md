@@ -6,3 +6,5 @@
 - [ ] pi drivers (leds + camera)
 - [ ] stage 1 one pixel
 - [ ] stage 2 2x2
+
+- done: sensing basics (jan)
