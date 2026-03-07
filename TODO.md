@@ -8,3 +8,5 @@
 - [ ] stage 2 2x2
 
 - done: sensing basics (jan)
+
+- done: optical model + nlse (feb)
