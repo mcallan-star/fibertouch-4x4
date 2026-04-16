@@ -10,3 +10,5 @@
 - done: sensing basics (jan)
 
 - done: optical model + nlse (feb)
+
+- done: notebooks + CI (apr)
