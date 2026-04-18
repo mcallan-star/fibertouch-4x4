@@ -58,3 +58,4 @@ def split_step_fourier(A0, t, distance, n_steps, beta2=0.0, gamma=0.0, alpha=0.0
         A = A * np.exp(1j * gamma * np.abs(A) ** 2 * dz)  # full nonlinear step
         A = np.fft.ifft(lin_half * np.fft.fft(A))
     return A
+\n# note: could add third-order dispersion (beta3) later if pulses get short\n
