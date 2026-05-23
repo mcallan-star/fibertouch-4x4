@@ -12,3 +12,5 @@
 - done: optical model + nlse (feb)
 
 - done: notebooks + CI (apr)
+
+- done: stage 1 one pixel (may)
