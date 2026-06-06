@@ -337,7 +337,7 @@ The prototype is accepted when **all Level-1 software tests pass**, **Stages 1-3
 
 | Level | Status | Date | Notes |
 |-------|--------|------|-------|
-| L1 - Software suite | ☐ | | |
-| L2 - Optical characterization | ☐ | | |
-| L3 - Stage 1 / 2 / 3 | ☐ / ☐ / ☐ | | |
-| L4 - System acceptance | ☐ | | |
+| L1 - Software suite | ☑ | 2026-04 | full SW-* suite green in CI |
+| L2 - Optical characterization | ◐ | 2026-06 | 2x2 subset characterized; full array pending |
+| L3 - Stage 1 / 2 / 3 | ☑ / ☑ / ☐ | 2026-06 | Stage 1 & 2 complete; full 4x4 not yet built |
+| L4 - System acceptance | ☐ | | blocked on full-array build |
