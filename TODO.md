@@ -14,3 +14,5 @@
 - done: notebooks + CI (apr)
 
 - done: stage 1 one pixel (may)
+
+- stage 3 full 4x4: out of scope for now (no time / parts)
