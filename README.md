@@ -4,6 +4,17 @@ Proof-of-concept **fiber-optic infrared touch surface**. A 4x4 grid of pixels; e
 
 Living project - see [`docs/TEST_PLAN.md`](docs/TEST_PLAN.md) for the full verification plan.
 
+## Results - it works
+
+Straight from the executed notebooks (`notebooks/`):
+
+| Live touch map | Neighbour isolation | NLSE solver vs. theory |
+|:---:|:---:|:---:|
+| ![touch map](results/touch_map.png) | ![neighbour isolation](results/neighbour_isolation.png) | ![soliton invariance](results/soliton_invariance.png) |
+| fingers on (0,2) & (1,1) detected | clears the -6 dB crosstalk target | N=1 soliton holds shape over a full period |
+
+More figures in [`results/`](results/): link budget vs. fiber length, GVD pulse broadening.
+
 ## Layout
 
 ```
