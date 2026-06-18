@@ -6,6 +6,8 @@ Living project - see [`docs/TEST_PLAN.md`](docs/TEST_PLAN.md) for the full verif
 
 ## Results - it works
 
+![prototype](results/2026-06-18_01-21-16.png)
+
 Straight from the executed notebooks (`notebooks/`):
 
 | Live touch map | Neighbour isolation | NLSE solver vs. theory |
