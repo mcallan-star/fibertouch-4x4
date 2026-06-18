@@ -7,6 +7,7 @@ Living project - see [`docs/TEST_PLAN.md`](docs/TEST_PLAN.md) for the full verif
 ## Results - it works
 
 ![prototype](results/2026-06-18_01-21-16.png)
+Image editted in photoshop to enhance glow effect.
 
 Straight from the executed notebooks (`notebooks/`):
 
